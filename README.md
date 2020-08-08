@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<img src="https://blog.maruthisharma.com/images/header_ls.jpg"/>
-
-They call me the RobotBoy, or I <strike>make</strike> implore them to.
+They call me the **RobotBoy**, or I <strike>make</strike> implore them to.
 I’m a UI designer who knows how to code - so I can plan, design and develop smooth and responsive websites for you. I’m also a graphic designer, so I can design logos, posters or any other branding material too.
 
 I’ve been freelancing for more than 5 years (with my awesome friends at Citrus Designs), helping out budding start-ups in building a brand and already successful brands in revamping their identity.
